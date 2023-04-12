@@ -1,0 +1,12 @@
+﻿  ConsoleApplication1.cpp
+c:\users\asus\desktop\doodle jump\consoleapplication1\consoleapplication1\consoleapplication1.cpp(336): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\asus\desktop\doodle jump\consoleapplication1\consoleapplication1\consoleapplication1.cpp(337): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\asus\desktop\doodle jump\consoleapplication1\consoleapplication1\consoleapplication1.cpp(338): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\asus\desktop\doodle jump\consoleapplication1\consoleapplication1\consoleapplication1.cpp(809): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\asus\desktop\doodle jump\consoleapplication1\consoleapplication1\consoleapplication1.cpp(863): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\asus\desktop\doodle jump\consoleapplication1\consoleapplication1\consoleapplication1.cpp(867): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\asus\desktop\doodle jump\consoleapplication1\consoleapplication1\consoleapplication1.cpp(874): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\asus\desktop\doodle jump\consoleapplication1\consoleapplication1\consoleapplication1.cpp(880): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\asus\desktop\doodle jump\consoleapplication1\consoleapplication1\consoleapplication1.cpp(892): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\asus\desktop\doodle jump\consoleapplication1\consoleapplication1\consoleapplication1.cpp(897): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\asus\Desktop\Doodle Jump\ConsoleApplication1\Debug\ConsoleApplication1.exe
